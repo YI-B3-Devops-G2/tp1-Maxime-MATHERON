@@ -20,7 +20,7 @@ nginx
 
 # Prérequis
 - [Vagrant](https://www.vagrantup.com/downloads.html)
-- [VirtualBox v6.0](https://www.virtualbox.org/wiki/Download_Old_Builds) (Attention, VirtualBox 6.1 non supportée par vagrant au moment de la rédaction)
+- [VirtualBox v6.0](https://www.virtualbox.org/wiki/Download_Old_Builds) (Attention, VirtualBox 6.1 non supporté par vagrant au moment de la rédaction)
 - git (pour [Windows](https://gitforwindows.org/))
 - un shell (inclut avec [git bash](https://gitforwindows.org/) pour windows)
 
